@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@700&display=swap');
+
+body {
+  background-color: #1B1B1B;
+}
+
+.logo {
+  margin-left: 240px;
+  margin-top: -80px;
+}
+
+.tv {
+  margin-bottom: 80px;
+  margin-left: -20px;
+}
+
+
+.wave {
+  margin-top: 5px;
+}
+
+.line {
+  width: 300px;
+  font-size: 35px;
+  text-align: center;
+  margin-left: 315px;
+  margin-top: -310px;
+  padding: 5px;
+}
+
+.line .fa-moon {
+  background: #F2F2F2;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.line .fa-user-alt {
+  background: #F2F2F2;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.line .fa-search {
+  background: #F2F2F2;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.input {
+  width: 400px;
+  color: #FFFFFF;
+  font-family: 'Tajawal', sans-serif;
+  font-size: 30px;
+  background-color: #3aa5dc;
+  text-align: center;
+  margin: 200px auto;
+  margin-right: 290px;
+  border-radius: 50px;
+}
+
+.input h3 {
+  padding: 15px;
+  padding-top: 20px;
+}
+
+.anime {
+  margin-top: -150px;
+  margin-left: 130px;
+}
+
+.anime img {
+  padding: 5px;
+  border-radius: 20px;
+  border: 1px solid #FFFFFF85;
+  margin: 15px;
+}
+
+.anime .down {
+  margin-left: 180px;
+}
+
+.anime img:hover {
+  transform: scale(.9);
+  transition: .3s ease-in-out;
+}
+
+
+footer {
+   color:#FFFFFF;
+   font-family: 'Tajawal', sans-serif;
+   font-size: 30px;
+   margin-top: 80px;
+   text-align: center;
+   position: absolute;
+   left: 230px;
+   border-top:10px solid #ffd700;
+   border-radius: 10px;
+   width: 500px;
+   padding-top:40px;
+   padding-bottom: 10px
+}
